@@ -4,3 +4,6 @@
 ``` rust
 let num1:i8 = 10;
 ```
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
